@@ -1,10 +1,5 @@
 .installed.cfg
 bin
-develop-eggs
-dist
-downloads
-eggs
-parts
-src/*.egg-info
+Email-s.py
 lib
 lib64
